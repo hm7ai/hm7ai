@@ -20,6 +20,9 @@
 <a href="https://www.instagram.com/h7a.i" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<a href="https://www.linkedin.com/in/hamza-alhaj-ali-3942463b3" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 
 <hr></hr>
