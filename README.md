@@ -1,14 +1,26 @@
-<div align="center" width="50">
-<h1 color = "red">حمزة الحاج علي</h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<div align="center" width="50%">
+
+<h1 style="color:rgb(16,81,181); font-size:2.2em;">Hamza Alhaj Ali</h1>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <details>
-<p><strong> <summary>  مشغول بالبرمجة وأستمتع بـ :   </summary> </strong></p>
+  <summary><strong>About Me</strong></summary>
+  <p>
+    🎓 Third-year student in the Faculty of Engineering,<br>
+    majoring in <strong>Software Engineering</strong>,<br>
+    at the <strong>Syrian Private University</strong>.
+  </p>
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%2355555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<hr>
+
+### 🌐 Connect with me  
+<a href="https://www.instagram.com/h7a.i" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 
 <hr></hr>
 
@@ -20,3 +32,13 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 
+ 
+<hr>
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+</div>
